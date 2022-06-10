@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Tool Planet",
+    "type": "Manufacturing Company Website",
+    "screenshots": [
+      {
+        "title": "Homepage",
+        "image": "images/screenshots/toolsPlanet.png"
+      },
+      {
+        "title": "Admin Dashboard",
+        "image": "images/screenshots/adminDashboardToolPlanet.png"
+      },
+      {
+        "title": "User Dashboard",
+        "image": "images/screenshots/userDashboardToolPlanet.png"
+      }
+    ],
+    "description": "This is a full-stack responsive react project where dealers can buy tools in bulk. Users can go to the dashboard and pay for or cancel their orders. Only admins see all orders and their payment status in the dashboard. They can also ship paid orders. Admins can make normal users admin and add or delete products.",
+    "detailedDescription": "Technology Used: React JS, Firebase, React Firebase Hook, React Router, React Form Hook, DaisyUI, React Toastify, Express JS, Node JS, Dotenv, MongoDb, Heroku.",
+    "links": [
+      {
+        "title": "Live Site",
+        "url": "https://tool-planet.web.app/"
+      },
+      {
+        "title": "Client Side Code",
+        "url": "https://github.com/G-Mursalin/manufacturer-website-client"
+      },
+      {
+        "title": "Server Side Code",
+        "url": "https://github.com/G-Mursalin/manufacturer-website-server"
+      }
+    ]
+  },
+  {
+    "name": "DOMINATE",
+    "type": "Car Manager Website",
+    "screenshots": [
+      {
+        "title": "Homepage",
+        "image": "images/screenshots/dominate.png"
+      },
+      {
+        "title": "Add New Car Details",
+        "image": "images/screenshots/addNewCarDetailsDOMINATE.png"
+      },
+      {
+        "title": "Manage All Cars",
+        "image": "images/screenshots/manageAllCarsDOMINATE.png"
+      }
+    ],
+    "description": "This is another full stack responsive web application to manage cars in stock. Where users can update the stock of a car by restocking or delivering products. The user can add or delete cars from the list.",
+    "detailedDescription": "Technology Used: React JS, Firebase, React Firebase Hook, React Router, React Form Hook, DaisyUI, React Toastify, Express JS, Node JS, Dotenv, MongoDb.",
+    "links": [
+      {
+        "title": "Live Site",
+        "url": "https://dominate-db3ff.web.app/"
+      },
+      {
+        "title": "Client Side Code",
+        "url": "https://github.com/G-Mursalin/car-management-client"
+      },
+      {
+        "title": "Server Side Code",
+        "url": "https://github.com/G-Mursalin/car-management-server"
+      }
+    ]
+  },
+  {
+    "name": "Natours",
+    "type": "Simple one page Website.",
+    "screenshots": [
+      {
+        "title": "Homepage",
+        "image": "images/screenshots/natours.png"
+      },
+      {
+        "title": "Booking Page",
+        "image": "images/screenshots/bookingNatours.png"
+      },
+      {
+        "title": "Tours",
+        "image": "images/screenshots/toursNatours.png"
+      }
+    ],
+    "description": "This is a simple one page website using only core HTML and CSS.",
+    "detailedDescription": "Technology Used: HTML, CSS, SCSS",
+    "links": [
+      {
+        "title": "Live Site",
+        "url": "https://natours-1232.netlify.app/"
+      },
+      {
+        "title": "Client Side Code",
+        "url": "https://github.com/G-Mursalin/Natours"
+      }
+    ]
+  }
+]
